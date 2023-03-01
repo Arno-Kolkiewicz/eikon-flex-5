@@ -3,9 +3,7 @@
   display: flex;
   align-items: baseline;
 }
-
 /* 2. exercice-baseline-2 */
-
 /* 3. exercice-baseline-3 */
 .exercice-baseline-3 .container {
   display: flex;
@@ -13,9 +11,7 @@
   align-items: baseline;
   justify-content: center;
   align-content: center;
-
 }
-
 /* 4. exercice-flow-1 */
 .exercice-flow-1 .container {
   display: flex;
@@ -33,7 +29,6 @@
   justify-content:space-between;
   align-content: center;
 }
-
 /* 7. exercice-all-in-2 */
 .exercice-all-in-2 .container {
   display: flex;
@@ -41,11 +36,9 @@
   align-content: center;
   align-items: baseline;
 }
-
 .exercice-all-in-2 .element-blue {
   flex-grow: 1;
 }
-
 .exercice-all-in-2 .element-pink {
   flex-grow: 1;
   order: 1;
