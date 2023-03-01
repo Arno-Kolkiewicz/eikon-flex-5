@@ -7,6 +7,14 @@
 /* 2. exercice-baseline-2 */
 
 /* 3. exercice-baseline-3 */
+.exercice-baseline-3 .container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: baseline;
+  justify-content: center;
+  align-content: center;
+
+}
 
 /* 4. exercice-flow-1 */
 .exercice-flow-1 .container {
